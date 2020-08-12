@@ -1,0 +1,98 @@
+/*
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+*/
+body{
+    font-family: 'Poppins', sans-serif;
+}
+small{
+    color: #585859;
+}
+h2{
+    color: #413960;
+}
+h5{
+    color: #413960;
+}
+.container{
+    margin-bottom: 80px;
+}
+.header{
+    background: #F0FFF0;
+    height: 576px;
+    margin-bottom: 80px;
+}
+/* Navbar */
+.navbar-brand img{
+    width: 150px;
+}
+.my-button{
+    font-family: 'Roboto', sans-serif;
+    padding: 12px 36px;
+    color: white;
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+}
+/* Banner */
+.cat{
+    width: 270px;
+    height: 270px;
+    background: #F8FFFB;;
+    border-radius: 10px;
+}
+.cat:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.cat img{
+    width: 66px;
+    margin-bottom: 20px;
+}
+.card{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card-title{
+    color: #413960;
+}
+.card-img-top{
+    padding: 5%;
+}
+.card-footer{
+    background: #FFFFFF;
+    border-top: none;
+}
+.card-footer img{
+    width: 17px;
+}
+.testimonial img{
+    width: 120px;
+}
+.testimonial p{
+    display: inline-block;
+    width: 580px;
+    margin-left: 30px;
+}
+.footer{
+    background: #282531;
+    height: 270px;
+    padding-top: 50px;
+}
+.footer p,h5,a{
+    color: white;
+}
+.footer h5{
+    font-weight: bold;
+}
+footer{
+    background: #282531;
+    padding-bottom: 10px;    
+    text-align: center;
+}
+footer small{
+    color: #CDCDCD;
+}
+
